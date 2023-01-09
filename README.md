@@ -1,2 +1,3 @@
 # Algorithms-Samsung-course
-THUẬT TOÁN ỨNG DỤNG - SAMSUNG (basic)
+
+Algorithms and applications - Samsung (basic)
